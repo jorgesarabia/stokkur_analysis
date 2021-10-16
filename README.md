@@ -72,7 +72,9 @@ linter:
 
 ## Badge
 
-To indicate your project is using `stokkur_analysis` :arrow_right: [![style: stokkur analysis][badge]][badge_link]
+You're using `stokkur_analysis` in your project? Add the badge to your README.md 
+
+[![style: stokkur analysis][badge]][badge_link]
 
 ```md
 [![style: stokkur analysis](https://img.shields.io/badge/style-stokkur_analysis-green?logo=Flutter&logoColor=blue)](https://github.com/jorgesarabia/stokkur_analysis)
