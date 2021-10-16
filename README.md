@@ -2,11 +2,11 @@
 
 [![Stokkur Analysis](assets/stokkur_logo.svg)][stokkur_link]
 
-<!-- [![ci][ci_badge]][ci_badge_link] -->
-<!-- [![pub package][pub_badge]][pub_badge_link] -->
+[![ci][ci_badge]][ci_badge_link]
 [![License: MIT][license_badge]][license_badge_link]
 [![style: very good analysis][badge]][badge_link]
 
+<!-- [![pub package][pub_badge]][pub_badge_link] -->
 ---
 
 This package provides lint rules for Flutter which are used at [Stokkur][stokkur_link]. 
