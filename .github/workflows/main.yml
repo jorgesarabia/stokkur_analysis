@@ -18,7 +18,7 @@ jobs:
       - name: Analyze
         run: dart analyze .
 
-pana:
+  pana:
     runs-on: ubuntu-latest
 
     steps:
