@@ -1,6 +1,6 @@
 name: stokkur_analysis
 version: 0.0.1
-description: Lint rules for Flutter used internally at Stokkur Software.
+description: This package define a set of lint rules to build Flutter apps. We use this internally at Stokkur Software.
 repository: https://github.com/jorgesarabia/stokkur_analysis
 issue_tracker: https://github.com/jorgesarabia/stokkur_analysis
 homepage: https://github.com/jorgesarabia/stokkur_analysis
